@@ -64,7 +64,7 @@ Deve-se poder cadastrar, listar, editar e deletar.
   "updated_at": "2020-10-21T13:45:11-03:00" //preenche com a data atual quando esta modificando o certificado
 }
 ```
-### Desafio realizado Por Mariana Mohr
+# Desafio realizado Por Mariana Mohr
 
 ## FrontEnd
 
@@ -72,7 +72,7 @@ Deve-se poder cadastrar, listar, editar e deletar.
 
 2 - foi utilizada a componentização nos elementos;
 
-# Passo a passo projeto:
+### Passo a passo projeto:
 
 1 - Rodar o comando abaixo para instalar as dependencias do package.json
 ```
@@ -92,7 +92,7 @@ npm start
 
 2 - Hospedada no site [Heroku](https://itflex-cerificados.herokuapp.com/certificados);
 
-# Passo a passo projeto:
+### Passo a passo projeto:
 
 1 - Rodar o comando abaixo para instalar as dependencias do package.json
 ```
