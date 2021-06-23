@@ -90,7 +90,9 @@ npm start
 
 1 - Foi utilizada a linguagem Node.js e o framework express.js para desenvolvimento da API;
 
-2 - Hospedada no site [Heroku](https://itflex-cerificados.herokuapp.com/certificados);
+2 - para desenvolvimento da API me baseei no [video](https://www.youtube.com/watch?v=d_vXgK4uZJM&list=PLWgD0gfm500EMEDPyb3Orb28i7HK5_DkR&index=1&ab_channel=Maransatto);
+
+3 - Hospedada no site [Heroku](https://itflex-cerificados.herokuapp.com/certificados);
 
 ### Passo a passo projeto:
 
