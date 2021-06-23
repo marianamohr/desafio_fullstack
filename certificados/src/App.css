@@ -1,0 +1,112 @@
+* {
+  background-color:#262626;
+  font-family: 'Actor', sans-serif;
+}
+header {
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color:#FBCC38;
+  height: 80px;
+}
+
+header h1 {
+  background-color:#FBCC38;
+}
+
+.logo-itflex {
+  background-color: white;
+  padding:10px;
+  border-radius: 5%;
+}
+
+main {
+  color: white;
+  text-align: center;
+}
+
+main h1 {
+margin-top:70px;
+}
+
+.list-certificados {
+  display: flex;
+  justify-content: space-evenly;
+  align-items:center;
+  flex-wrap: wrap;
+  margin-top: 100px;
+}
+
+.card-certificado {
+  background-color:white;
+  border-radius: 5%;
+  max-width: 250px;
+  padding: 5px;
+  margin: 15px;
+  color: #4C4C4C;
+  box-shadow: 5px 5px 10px #858585;
+}
+
+.card-certificado  h3{
+  background-color:white;
+}
+
+  .cabecalho {
+    background-color:#FBCC38;
+    padding:20px;
+    border-radius: 5%;
+  }
+
+  .cabecalho h3{
+    background-color:#FBCC38;
+  }
+
+  .link {
+    background-color: #FBCC38;
+    text-decoration: none;
+    color: #4C4C4C;
+  }
+
+  .link:hover {
+    font-size: 20px;
+  }
+
+  .grid-cardDetails {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 70vh;
+  }
+
+  .cardDetails-certificado {
+  box-shadow: 5px 5px 10px #858585;
+  background-color:white;
+  border-radius: 5%;
+  width: 500px;
+  height:390px;
+  padding: 5px;
+  margin: 15px;
+  color: #4C4C4C;
+  padding: 10px;
+}
+.cardDetails-certificado  h3{
+  background-color:white;
+  }
+
+  .cardDetails-cabecalho {
+    background-color:#FBCC38;
+    padding:10px;
+    border-top-right-radius: 5%;
+    border-top-left-radius: 5%;
+  }
+
+  .cardDetails-cabecalho h3 {
+    background-color:#FBCC38;
+  }
+
+footer {
+  text-align:center;
+  color:#FBCC38;
+  margin-top: 250px;;
+}
