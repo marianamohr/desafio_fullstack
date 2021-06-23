@@ -64,4 +64,47 @@ Deve-se poder cadastrar, listar, editar e deletar.
   "updated_at": "2020-10-21T13:45:11-03:00" //preenche com a data atual quando esta modificando o certificado
 }
 ```
+### Desafio realizado Por Mariana Mohr
 
+## FrontEnd
+
+1 - Foi utilizado o framework React para o desenvolvimento;
+
+2 - foi utilizada a componentização nos elementos;
+
+# Passo a passo projeto:
+
+1 - Rodar o comando abaixo para instalar as dependencias do package.json
+```
+npm install
+
+```
+
+2 - Rodar o comando abaixo para rodar localmente a aplicação
+```
+npm start
+
+```
+
+## BackEnd
+
+1 - Foi utilizada a linguagem Node.js e o framework express.js para desenvolvimento da API;
+
+2 - Hospedada no site [Heroku](https://itflex-cerificados.herokuapp.com/certificados);
+
+# Passo a passo projeto:
+
+1 - Rodar o comando abaixo para instalar as dependencias do package.json
+```
+npm install
+```
+2 - Rodar o comando abaixo para rodar localmente a aplicação
+```
+npm start
+
+```
+
+# OBS
+
+* A API está retornando no navegador, porem quando realizada a requisição fetch na Aplicação, está dando problema de Cors, eu tentei resolver, porem não obtive sucesso. Então para fazer o frontEnd funcionar, coloquei os certificados em uma pasta data e peguei as informações de lá. a Aplicação também está implementada para fazer o fetch, os trechos de códigos estão comentados.
+  
